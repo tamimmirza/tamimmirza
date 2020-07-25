@@ -1,4 +1,4 @@
-### Hi there 👋
+![Sith Terminal - Copy](https://user-images.githubusercontent.com/35456031/88460765-06b43880-ceb8-11ea-8eae-1023e785f96b.png)
 
 <!--
 **tamimmirza/tamimmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
