@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 # Certifications
 
-#### Deep Learning Specialization (Coursera)
-* Neural Networks and Deep Learning
-* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-* Structuring Machine Learning Projects
-* Convolutional Neural Networks
-* Sequence Models
+![Coursera 6RTEXQLAE788-1](https://user-images.githubusercontent.com/35456031/96367587-38ac0280-1168-11eb-873d-e028d13511d4.png)
+
+![Coursera XQE9AM4ANZRE-1](https://user-images.githubusercontent.com/35456031/96367594-43ff2e00-1168-11eb-8e4d-63d4014b51e3.png)
+
